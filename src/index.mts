@@ -1,6 +1,6 @@
 import dayjs from "dayjs";
 
-export default class ConsoleLogWorker
+export class TestWorker
 {
   public write = async (
     logString: string
